@@ -1,5 +1,5 @@
 import pytest
-from main import (
+from day_one import (
     part_one,
     part_two,
     find_numbers,
